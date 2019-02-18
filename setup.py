@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='AWS-Invoke',
-    version='0.0.1',
+    version='0.0.2',
     author='PentairIoT',
     author_email='pentairiot@gmail.com',
     description='Python library for Invoking a targeted AWS Lambda function based on the provied event',

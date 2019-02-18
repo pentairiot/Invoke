@@ -1,3 +1,3 @@
-from Invoke import *
+from Invoke.Invoke import *
 
 name = 'Invoke'
