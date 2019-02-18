@@ -4,8 +4,8 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setup(
-    name='Invoke',
-    version='0.0.1-dev',
+    name='AWS-Invoke',
+    version='0.0.1',
     author='PentairIoT',
     author_email='pentairiot@gmail.com',
     description='Python library for Invoking a targeted AWS Lambda function based on the provied event',
@@ -19,4 +19,4 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ),
-
+)
